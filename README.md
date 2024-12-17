@@ -7,11 +7,11 @@
 The project has two parts
 1. The Dashboard Project
 2. The Population Projection
-   1. The datasets and the link for the dashboard project is found in the project report file.
-   2. The full report for the population projection is found in the report file named finalproject_report
+   1. The lists of datasets and the link for the dashboard project is found in the project report file.
+   2. The full report for the population projection is found in the report file named FinalReport_TigistW.docx
 
 Project files in this repository
-1. The final project report in word file: 
+1. The final project report in word file: *FinalReport_TigistW.docx*
 2. The powerpoint presentation of the combined report: *FinalProject_Presentation.pptx*
 3. Google colab python notebook for the five years projection interpolation code: *Interpolation_RV.ipynb*
 4. The county population summary: to compare the number of Rockville's population to US counties
