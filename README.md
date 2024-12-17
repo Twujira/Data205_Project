@@ -9,6 +9,6 @@ The project has two parts
    2. The full report for the population projection is found in the report file named finalproject_report
 
 Other files in this repository
-1. The powerpoint presentation of the combined report: /FinalProject_Presentation.pptx/
+1. The powerpoint presentation of the combined report: /*FinalProject_Presentation.pptx*/
 3. Google colab python notebook for the five years projection interpolation code
 4. The county population summary: to compare the number of Rockville's population to US counties
