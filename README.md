@@ -1,6 +1,7 @@
 # Data205_Capstone Project
 
 * Project title: The City of Rockville Population Projection and Dashboard Project
+  This project has been completed in collaboration with the city of Rockville planning and community services development.
   
 The project has two parts
 1. The Dashboard Project
