@@ -1,4 +1,4 @@
-# Data205_Project Capstone Project
+# Data205_Capstone Project
 
 * Project title: The City of Rockville Population Projection and Dashboard Project
   
