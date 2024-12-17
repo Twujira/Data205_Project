@@ -7,6 +7,7 @@ The project has two parts
 2. The Population Projection
    1. The datasets and the link for the dashboard project is found in the project report file.
    2. The full report for the population projection is found in the report file named finalproject_report
+
 Other files in this repository
 1. The powerpoint presentation of the combined report.
 2. Google colab python notebook for the five years projection interpolation code
