@@ -5,14 +5,14 @@
 This project was completed in fall 2024 by Tigist Wujira and Nancy Condon as part of the Data 205 Capstone Project course at [Montgomery College](https://www.montgomerycollege.edu/academics/programs/data-science/index.html), in collaboration with the City of Rockville's Planning and Community Development Services.
   
 The project has two parts
-1. The Dashboard Project
-2. The Population Projection
-   1. The lists of datasets and the link for the dashboard project is found in the project report file.
-   2. The full report for the population projection is found in the report file named FinalReport_TigistW.docx
+**1. The Dashboard Project**
+**2. The Population Projection**
+   1. The datasets used and the link to the dashboard project are included in the project report file.
+   2. The complete report for the population projection is available in the file named /*FinalReport_TigistW.docx*/
 
-Project files in this repository
-1. The final project report in word file: *FinalReport_TigistW.docx*
-2. The powerpoint presentation of the combined report: *FinalProject_Presentation.pptx*
-3. Google colab python notebook for the five years projection interpolation code: *Interpolation_RV.ipynb*
-4. The county population summary: to compare the number of Rockville's population to US counties: *US_County_Populations.ipynb*
+**Project files in this repository**
+1. **Final Project Report**: A Word document detailing the project.(*FinalReport_TigistW.docx*)
+2. **Presentation**: A PowerPoint file summarizing the combined project. (/*FinalProject_Presentation.pptx*/)
+3. **Google Colab Notebook**: Python code for five-year projection interpolation. (*Interpolation_RV.ipynb*)
+4. **County Population Summary**: A comparison of Rockville's population to U.S. counties. (*US_County_Populations.ipynb*)
 
