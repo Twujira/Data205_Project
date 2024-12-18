@@ -9,7 +9,7 @@ The project has two parts
 **1. The Dashboard Project**
 
 **2. The Population Projection**
-   1. The datasets used and the link to the [dashboard] (https://www.rockvillemd.gov/610/Community-Data-Trends) project are included in the project report file.
+   1. The datasets used and the link to the [dashboard] (https://www.rockvillemd.gov/610/Community-Data-Trends), project are included in the project report file.
    2. The complete report for the population projection is available in the file named /*FinalReport_TigistW.docx*/
 
 **Project files in this repository**
