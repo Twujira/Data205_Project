@@ -8,7 +8,7 @@ The project has two parts
 
 **1. The Dashboard Project**
 
-**2. The Population Projection**
+**2. The Population Projections**
 
    i. The datasets used and the link to the [dashboard](https://www.rockvillemd.gov/610/Community-Data-Trends), project are included in the project report file.
    
