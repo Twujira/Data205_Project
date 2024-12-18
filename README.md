@@ -2,7 +2,7 @@
 
 * Project title: The City of Rockville Population Projection and Dashboard Project
 
-  This project has been completed in collaboration with the city of Rockville planning and community services development.
+This project was completed by Tigist Wujira and Nancy Condon as part of the Data 205 Capstone Project course, in collaboration with the City of Rockville's Planning and Community Development Services.
   
 The project has two parts
 1. The Dashboard Project
