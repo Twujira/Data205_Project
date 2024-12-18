@@ -1,6 +1,6 @@
 # Data205_Capstone Project
 
-* Project title: **The City of Rockville Populations Projection and Dashboard Project**
+* Project title: **The City of Rockville Population Projections and Dashboard Project**
 
 This project was completed in fall 2024 by Tigist Wujira and Nancy Condon as part of the Data 205 Capstone Project course at [Montgomery College](https://www.montgomerycollege.edu/academics/programs/data-science/index.html), in collaboration with the City of Rockville's Planning and Community Development Services.
   
